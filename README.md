@@ -3,6 +3,7 @@ Evaluación del consumo energético del ESP32 mediante adquisición ADC con y si
 # Evaluación energética del ESP32: ADC con y sin DMA
 
 **Proyecto académico desarrollado en C con ESP-IDF 6.1.0 para el ESP32-WROOM-32.**
+Sebastián Rodríguez De Alba | DISEÑO DE SISTEMAS EMBEBIDOS |  GPO: 001 | UANL-FIME | Realizado con apoyo del Doc.HECTOR GILBERTO BARRON GONZALEZ
 
 ## Descripción del proyecto
 
